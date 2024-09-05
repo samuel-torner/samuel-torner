@@ -1,2 +1,4 @@
 $ cd
 $ cd desktop
+$ git config --global user.name "Vlad Dracula"
+$ git config --global user.email "vlad@tran.sylvan.ia"
